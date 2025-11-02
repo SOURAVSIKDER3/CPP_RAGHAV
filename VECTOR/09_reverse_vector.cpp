@@ -14,5 +14,4 @@ int main(){
         arr2.push_back(arr1[j]);
          cout<<arr2[i]<<" ";
     }
-    
 }
